@@ -1,2 +1,2 @@
 # everything-as-a-service
-trendy ...
+just run the script to see where Cloud goes next year
